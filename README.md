@@ -18,12 +18,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="babel" width="40" height="40"/> 
 </a>
 <a href="https://www.instagram.com/mrk_pltv/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/717/717392.png" alt="babel" width="40" height="40"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/3536/3536479.png" alt="babel" width="40" height="40"/> 
 </a>
-<a href="https://www.instagram.com/mrk_pltv/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/717/717392.png" alt="babel" width="40" height="40"/> 
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
