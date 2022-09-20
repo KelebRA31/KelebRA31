@@ -47,6 +47,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cib-webpack_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Cib-webpack_%28CoreUI_Icons_v1.0.0%29.svg.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
+<div align="center">
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelebRA31&theme=highcontrast&langs_count=8&layout=compact&hide_border=true" />
 </div>
