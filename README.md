@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/mrk_pltv/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/717/717392.png" alt="babel" width="40" height="40"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/1419/1419647.png" alt="babel" width="40" height="40"/> 
 </a>
 <a href="https://t.me/mrk_pltv" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="babel" width="40" height="40"/> 
