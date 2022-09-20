@@ -1,7 +1,10 @@
+<hr>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&duration=6000&pause=300&color=000000&center=true&multiline=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+My+name+is+Mark;I+am+Full+Stack+JavaScript+developer" alt="Typing SVG" /></a>
 </div>
+</hr>
 
+<hr>
 - 🔭 I’m currently working on **DogsToDogs**
 
 - 🌱 I’m currently learning **mySQL, TypeScript, React Native.**
@@ -9,7 +12,9 @@
 - 📫 How to reach me **mrk.pltv@gmail.com**
 
 - 📄 My resume [https://bit.ly/3qSnv0K](https://bit.ly/3qSnv0K)
+</hr>
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/mrk_pltv/" target="_blank" rel="noreferrer"> 
@@ -47,7 +52,11 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cib-webpack_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Cib-webpack_%28CoreUI_Icons_v1.0.0%29.svg.png" alt="webpack" width="40" height="40"/> </a>
 </p>
+</hr>
 
+<hr>
 <div align="center">
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelebRA31&theme=highcontrast&langs_count=8&layout=compact&hide_border=true" />
 </div>
+</hr>
+<hr></hr>
