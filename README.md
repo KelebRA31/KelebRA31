@@ -23,6 +23,7 @@
 <a href="https://t.me/mrk_pltv" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="babel" width="40" height="40"/> 
 </a>
+<hr></hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
