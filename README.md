@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Poletaev!</h1>
 <h3 align="center">Full stack developer</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=000000&center=true&multiline=true&width=435&lines=My+name+is+Mark;I+am+Full+Stack+JavaScript+developer" alt="Typing SVG" /></a>
+
 - 🔭 I’m currently working on **DogsToDogs**
 
 - 🌱 I’m currently learning **mySQL, TypeScript, React Native.**
