@@ -5,6 +5,8 @@
 </hr>
 
 <hr>
+</hr>
+
 - 🔭 I’m currently working on **DogsToDogs**
 
 - 🌱 I’m currently learning **mySQL, TypeScript, React Native.**
@@ -12,7 +14,7 @@
 - 📫 How to reach me **mrk.pltv@gmail.com**
 
 - 📄 My resume [https://bit.ly/3qSnv0K](https://bit.ly/3qSnv0K)
-</hr>
+
 
 <hr>
 <h3 align="left">Connect with me:</h3>
